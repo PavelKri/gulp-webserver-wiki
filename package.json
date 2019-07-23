@@ -32,7 +32,7 @@
     "url": "https://github.com/schickling"
   },
   "bugs": {
-    "url": "https://github.com/schickling/gulp-webserver-wiki/issues"
+    "url": ""
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -55,7 +55,7 @@
     "mocha": "^1.20.1",
     "supertest": "^0.13.0"
   },
-  "homepage": "https://github.com/schickling/gulp-webserver-wiki",
+  "homepage": "https://github.com/PavelKri/gulp-webserver-wiki",
   "keywords": [
     "gulpplugin",
     "webserver",
@@ -67,7 +67,7 @@
   "name": "gulp-webserver-wiki",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schickling/gulp-webserver-wiki.git"
+    "url": "git+https://github.com/PavelKri/gulp-webserver-wiki.git"
   },
   "scripts": {
     "test": "mocha"
