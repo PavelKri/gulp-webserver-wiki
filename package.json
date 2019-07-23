@@ -2,6 +2,7 @@
   "_from": "gulp-webserver-wiki",
   "_id": "gulp-webserver-wiki@0.1",
   "_inBundle": false,
+  "private": false,
   "_integrity": "",
   "_location": "/gulp-webserver-wiki",
   "_phantomChildren": {
